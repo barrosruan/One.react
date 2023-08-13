@@ -7,14 +7,14 @@ import Colaborador from "./componetes/Colaborador";
 function App() {
   const times = [
     {
-      nome: "Programação",
+      nome: "Time verde",
       corPrimaria: "#57C278",
       corSecundaria: "#D9F7E9",
     },
 
 
     {
-      nome: "Front-End",
+      nome: "Time azul",
       corPrimaria: "#82CFFA",
       corSecundaria: "#E8F8FF",
     },
